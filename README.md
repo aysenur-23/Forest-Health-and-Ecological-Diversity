@@ -12,4 +12,5 @@ Gradio Entegrasyonu: Gradio kütüphanesi kullanılarak etkileşimli bir arayüz
 Sonuç:
 
 Bu proje, orman sağlığı verilerinin analizini ve görselleştirilmesini kolaylaştırmak için bir araç sağlar. Proje, Google Colab'da çalıştırılabilir ve orman sağlığıyla ilgili analizler yapmak isteyen herkes tarafından kullanılabilir.
+
 ![image](https://github.com/user-attachments/assets/f573f661-4f6d-439d-a527-b94773560e8b)
